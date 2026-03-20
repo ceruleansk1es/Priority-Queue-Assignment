@@ -1,5 +1,11 @@
 # Priority Queue
 
+[*Note: code created/modified is in PriorityQueue.h, look for TODOs to see]
+
+[*Note 2: Application of Priority Queues to potential SUPER project - A priority queue is used to efficiently manage and process data by importance. Sensor networks such as those operated by NCAR provide a steady stream of data. Unusual or incorrect readings amongst the data would be more important to flag first in the process of improving data quality.]
+
+------ back to assignment README
+
 While a Priority Queue can be implemented in a variety of ways, in practice they are often implemented as a form of a heap. For the purposes of this assignment you are to implement a [Binary Max-Heap](https://github.com/pulchroxloom/binary-heaps/raw/main/Binary%20Heaps%20-%20Dante.pdf).
 
 ## Getting started
